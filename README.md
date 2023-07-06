@@ -13,6 +13,8 @@ It is compatible with Windows 10 and 11 (x86/x64).
 # installation 
 ```
 pip install random
+```
+```
 pip install fade
 ```
 [![Discord](https://discord.gg/mCxeF7RNMx)
