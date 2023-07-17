@@ -11,6 +11,9 @@ You can also save your passwords to a text file.
 It is compatible with Windows 10 and 11 (x86/x64).
 
 # installation 
+Install Python -> https://python.org/
+
+Next, in a cmd type : 
 ```
 pip install random
 ```
