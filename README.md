@@ -20,7 +20,7 @@ pip install random
 ```
 pip install fade
 ```
-[![Discord](https://discord.gg/mCxeF7RNMx)
+[Discord](https://discord.gg/mCxeF7RNMx)
 [Telegram](https://t.me/TSH0P)
   
 </div><hr>
