@@ -20,6 +20,15 @@ pip install random
 ```
 pip install fade
 ```
+
+# Donations
+For BTC donations: bc1q93pyrnzy5m24rftu2ymz524h7a0869szhj9q0u
+
+For ETH donations: 0xF056003555F0c736ec3b415Fa37c4B076a4A9452
+
+For LTC donations: LXiBSiaf7kEBBfpWiepLBnqf2XGtHGtXjq
+
+
 [Discord](https://discord.gg/mCxeF7RNMx)
 [Telegram](https://t.me/TSH0P)
   
